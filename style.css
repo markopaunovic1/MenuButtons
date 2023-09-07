@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(219, 219, 219);
+}
+
+.menu-bar {
+    background-color: #c86800;
+    text-align: center;
+    justify-content: space-between;
+}
+
+#button {
+    background-color: #c86800;
+    border: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.all-buttons{
+    display: flex;
+    justify-content: center;
+    height: 90px;
+}
+
+#newYork {
+    display: none;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+#losAngeles {
+    display: none;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+#vegas {
+    display: none;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+#texas {
+    display: none;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+.first-page {
+    border: 1px solid black;
+    text-align: center;
+}
